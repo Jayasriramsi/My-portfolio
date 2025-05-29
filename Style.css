@@ -290,7 +290,7 @@ nav ul li a:hover::after {
 
 .col-1 img.abtimg {
     width: 100%;
-    max-width: 350px;         /* max width so it doesn't get too big */
+    max-width: 350px;         /* max width so it doesn’t get too big */
     height: auto;
     border-radius: 15px;
     object-fit: cover;        /* ensures good image cropping */
